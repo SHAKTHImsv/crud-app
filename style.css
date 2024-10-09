@@ -4,14 +4,15 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: poppins, sans-serif;
+    font-family: 'Poppins', sans-serif;
 }
 body {
     padding: 20px;
 }
 h3 {
     text-align: center;
-    font-weight: 680;
+    font-weight: 500;
+    font-size: 40px;
     margin: 15px 0;
     text-transform: uppercase;
     letter-spacing: 1px;
